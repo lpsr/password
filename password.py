@@ -1,6 +1,5 @@
 password = input("Введите пароль: ")
 
-
 try:
     check = 1 / len(password)
     check = 1 / int(password)
